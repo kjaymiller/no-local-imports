@@ -1,0 +1,13 @@
+.pre-commit-config.yaml
+.pre-commit-hooks.yaml
+README.md
+pyproject.toml
+.github/PULL_REQUEST_TEMPLATE.md
+no_local_imports/__init__.py
+no_local_imports/main.py
+no_local_imports.egg-info/PKG-INFO
+no_local_imports.egg-info/SOURCES.txt
+no_local_imports.egg-info/dependency_links.txt
+no_local_imports.egg-info/entry_points.txt
+no_local_imports.egg-info/top_level.txt
+tests/test_main.py

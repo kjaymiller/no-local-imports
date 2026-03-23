@@ -1,0 +1,2 @@
+[console_scripts]
+no-local-imports = no_local_imports.main:main

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: no-local-imports
+Version: 0.0.0
+Summary: Pre-commit hook to ensure no local path sources exist in [tool.uv.sources]
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
+# No Local Imports
+
+Removes local imports from pyproject.toml, because I forget to do that.
+
