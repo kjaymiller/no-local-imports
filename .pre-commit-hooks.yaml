@@ -1,0 +1,7 @@
+- id: no-local-imports
+  name: no-local-imports
+  description: Ensure no local path sources exist in [tool.uv.sources]
+  entry: python main.py
+  language: python
+  files: pyproject\.toml$
+  pass_filenames: false
